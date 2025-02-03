@@ -1,2 +1,18 @@
-# Phishing-Detection-CNN
-This project implements a Convolutional Neural Network (CNN) for detecting phishing websites based on extracted features from a dataset. It utilizes TensorFlow and Scikit-Learn for training and evaluation, with preprocessing techniques and overfitting management strategies.
+# 🔍 Phishing Detection using CNN
+
+## 📌 Project Overview  
+This project applies a **1D Convolutional Neural Network (CNN)** to classify websites as **legitimate** or **phishing** based on their features.  
+It includes:  
+✅ **Exploratory Data Analysis (EDA)**  
+✅ **Data preprocessing & normalization**  
+✅ **CNN model training with overfitting prevention**  
+✅ **Evaluation using metrics like confusion matrix & ROC curve**  
+
+---
+
+## 🛠 Installation  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Nejmeddin/phishing-detection-cnn.git
+   cd phishing-detection-cnn
